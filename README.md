@@ -1,42 +1,42 @@
-# 🏹 100 Days of DSA – Java
+# 🚀 Striver A2Z DSA Sheet Progress Tracker  
 
-Welcome to my **100 Days of Code (Java + DSA)** challenge repository!  
-I will be solving at least **one DSA problem every day** and pushing the solution here, following the **GFG 160 DSA Problem Set**.
-
----
-
-## 📅 Challenge Details
-- **Start Date:** 09 August 2025  
-- **End Date:** (Expected) 17 November 2025  
-- **Language Used:** Java  
-- **Problem Source:** [GFG 160 DSA Problems](https://www.geeksforgeeks.org/sde-sheet-a-complete-guide-for-sde-preparation/)  
-- **Goal:** Strengthen Java + DSA skills and prepare for technical interviews.
+This repository contains my solutions for the **Striver A2Z DSA Sheet** problems (with GFG links).  
+I am solving **1 problem per day**, starting from **Sorting (Step 3)**, and my target is to complete the **first 100 problems**.  
 
 ---
 
-## 📂 Topic Folders
-Each folder contains:
-- **Java Solutions** for the topic
-- **Topic-specific README** with solved problem list
-- Links to problems and solutions
+## 📌 Progress  
 
-| Topic   | Folder Link        | Problems Solved |
-|---------|-------------------|-----------------|
-| Arrays  | [Arrays](./Arrays) | 1               |
-| Strings | [Strings](./Strings) | 0               |
-| Linked List | [LinkedList](./LinkedList) | 0               |
-| Stack & Queue | [StackQueue](./StackQueue) | 0               |
-| Recursion | [Recursion](./Recursion) | 0               |
-| Dynamic Programming | [DP](./DP) | 0               |
-| Graphs  | [Graphs](./Graphs) | 0               |
-
+- ✅ Completed: 1 / 100 problems  
+- 🎯 Target: 100 problems  
+- 📅 Start Date: 18th August 2025  
 
 ---
 
-## 🚀 Goals
-- Daily consistency for 100 days straight  
-- Master core DSA concepts in Java  
-- Prepare for coding interviews (Zoho, Infosys, Google, etc.)
+## 📂 Problem List  
+
+| # | Topic | Problem | GFG Link | Status |
+|---|-------|---------|----------|--------|
+| 1 | Sorting - I | [Selection Sort](https://practice.geeksforgeeks.org/problems/selection-sort/1) | [Solution](./Day01_SelectionSort.java) | ✅ |
+| 2 | Sorting - I | [Bubble Sort](https://practice.geeksforgeeks.org/problems/bubble-sort/1) | [Solution](./Day02_BubbleSort.java) | ⏳ |
+| 3 | Sorting - I | [Insertion Sort](https://practice.geeksforgeeks.org/problems/insertion-sort/1) | [Solution](./Day03_InsertionSort.java) | ⏳ |
+| 4 | Sorting - I | [Recursive Bubble Sort](https://practice.geeksforgeeks.org/problems/recursive-bubble-sort/1) | [Solution](./Day04_RecursiveBubbleSort.java) | ⏳ |
+| 5 | Sorting - I | [Merge Sort](https://practice.geeksforgeeks.org/problems/merge-sort/1) | [Solution](./Day05_MergeSort.java) | ⏳ |
+| 6 | Sorting - I | [Quick Sort](https://practice.geeksforgeeks.org/problems/quick-sort/1) | [Solution](./Day06_QuickSort.java) | ⏳ |
+| 7 | Sorting - II | [Sort 0s, 1s, and 2s](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s/0) | [Solution](./Day07_Sort012.java) | ⏳ |
+| 8 | Sorting - II | [Count Inversions](https://practice.geeksforgeeks.org/problems/inversion-of-array-1587115620/1) | [Solution](./Day08_CountInversions.java) | ⏳ |
+| 9 | Sorting - II | [Find Missing Number](https://practice.geeksforgeeks.org/problems/missing-number-in-array1416/1) | [Solution](./Day09_MissingNumber.java) | ⏳ |
+| 10 | Sorting - II | [Find Duplicate Number](https://practice.geeksforgeeks.org/problems/find-duplicate-in-array/1) | [Solution](./Day10_FindDuplicate.java) | ⏳ |
+
+...  
+(continue till **Problem 100** in the same format with topics + GFG links)  
 
 ---
 
+## ✅ Legend  
+- ✅ Completed  
+- ⏳ Pending  
+
+---
+
+✨ Stay consistent. 1 problem/day → 100 problems in 100 days!
